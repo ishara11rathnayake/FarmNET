@@ -1,0 +1,47 @@
+*{
+    font-family: Segoe UI;
+}
+
+.background-color-1 {
+    background-color: #B0D5B0;
+    padding: 10px;
+}
+
+.background-color-2 {
+    background-color: #6FE09F;
+    color: white;
+    padding: 20px;
+}
+
+.background-color-3{
+    background-color: #B6D287;
+    color: white;
+    padding: 20px;
+}
+
+.logo{
+    margin: 0 auto;
+    display: block;
+    width: 211.5px;
+    height: 171px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+.welcome{
+    color: white;
+    font-family: Britannic;
+}
+
+.item{
+    margin-bottom: 10px;
+    background: rgb(255, 255, 255);
+    border: medium none;
+    border-radius: 30px;
+    height: 30px;;
+}
+
+.social-media-icon{
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
